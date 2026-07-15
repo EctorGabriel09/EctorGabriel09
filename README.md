@@ -38,7 +38,7 @@ Sistema web desenvolvido utilizando **ASP.NET Core MVC**, **C#** e **MySQL**, ap
 
 🔗 **Projeto**
 
-https://github.com/EctorGabriel09/Projeto-Uni-Gym-Fitness
+https://github.com/EctorGabriel09/Projeto-UniGymFitness
 
 ---
 
