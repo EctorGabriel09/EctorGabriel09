@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Ector Gabriel 👋</h1>
 
-<!--
-**EctorGabriel09/EctorGabriel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineer • C# • .NET • ASP.NET Core • SQL
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Construindo soluções através de código, estudo contínuo e projetos reais.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Sobre mim
+
+🎓 Estudante de Engenharia de Software
+
+💙 Apaixonado por tecnologia e desenvolvimento de software.
+
+🚀 Atualmente aprofundando meus conhecimentos em C#, .NET, ASP.NET Core, SQL e Arquitetura de Software.
+
+🎯 Meu objetivo é construir aplicações modernas, escaláveis e me tornar um desenvolvedor Back-end especializado no ecossistema .NET.
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,mysql,git,github,vscode,visualstudio" />
+</p>
+
+---
+
+## 🚀 Projeto em Destaque
+
+### 🏋️ UniGymFitness
+
+Sistema web desenvolvido utilizando **ASP.NET Core MVC**, **C#** e **MySQL**, aplicando arquitetura MVC, autenticação de usuários e operações CRUD.
+
+🔗 **Projeto**
+
+https://github.com/EctorGabriel09/Projeto-Uni-Gym-Fitness
+
+---
+
+## 📚 Atualmente
+
+- 📖 Engenharia de Software
+- 💻 Especialização em C# e .NET
+- 🚀 Desenvolvendo novos projetos
+- 📈 Evoluindo diariamente
+
+---
+
+## 📫 Contato
+
+📧 teixeragabriel01@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/ector-gabriel/
+
+---
+
+<p align="center">
+<b>"Building software. One project at a time."</b>
+</p>
