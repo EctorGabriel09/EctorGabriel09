@@ -1,36 +1,35 @@
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/EctorGabriel09/EctorGabriel09/main/assets/github-banner.png"/>
-
+  <img src="https://raw.githubusercontent.com/EctorGabriel09/EctorGabriel09/main/assets/BannerGithub.png" width="100%" />
 </p>
 
-<h1 align="center">
-
-Hi 👋 I'm Ector Gabriel
-
-</h1>
+<h1 align="center">Hi there 👋 I'm Ector Gabriel</h1>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Developer;C%23+%7C+.NET+Developer;Always+Learning..." />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Software+Developer;C%23+Developer;.NET+Developer;ASP.NET+Core;Always+Learning..." />
 </p>
 
 <p align="center">
+<b>Software Developer</b> • C# • .NET • ASP.NET Core • SQL
+</p>
 
-Software Developer • C# • .NET • ASP.NET Core • SQL
-
+<p align="center">
+Building software through consistency, curiosity and real-world projects.
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```csharp
 public class EctorGabriel
 {
+    public string Name => "Ector Gabriel";
+
     public string Education =>
         "Bachelor's Degree in Computer Science";
+
+    public string Role =>
+        "Software Developer";
 
     public string Focus =>
         ".NET Backend Development";
@@ -40,7 +39,7 @@ public class EctorGabriel
         "C#",
         ".NET",
         "ASP.NET Core",
-        "Entity Framework",
+        "Entity Framework Core",
         "SQL"
     };
 
@@ -51,7 +50,7 @@ public class EctorGabriel
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -61,75 +60,66 @@ public class EctorGabriel
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EctorGabriel09&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EctorGabriel09&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EctorGabriel09&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EctorGabriel09&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
-### 🏋️ UniGymFitness
+## 🏋️ UniGymFitness
 
-ASP.NET Core MVC
+Modern web application built with:
 
-C#
+- ASP.NET Core MVC
+- C#
+- Entity Framework Core
+- MySQL
 
-Entity Framework Core
+### Features
 
-MySQL
+- ✅ Authentication
+- ✅ CRUD Operations
+- ✅ Dashboard
+- ✅ Reports
+- ✅ Responsive Design
 
-✔ Authentication
-
-✔ CRUD
-
-✔ Dashboard
-
-✔ Reports
-
-✔ Responsive Design
-
-🔗
+🔗 **Repository**
 
 <a href="https://github.com/EctorGabriel09/UniGymFitness">
-
 UniGymFitness
-
 </a>
 
 ---
 
-## 🌱 Current Journey
+# 🌱 Currently Learning
 
 - 🎓 Computer Science
-- 💻 C# Complete Course
+- 💻 C# & .NET
 - 📚 Microsoft Learn
 - 🚀 Building Real Projects
-- ☁ Future Azure Certification
-- ☁ Future AWS Certification
+- ☁️ Azure (Next Step)
+- ☁️ AWS (Future Goal)
 
 ---
 
-## 🤝 Connect with Me
+# 🤝 Connect with Me
 
 <p align="center">
 
 <a href="mailto:teixeragabriel01@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/ector-gabriel/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 </p>
@@ -138,10 +128,12 @@ UniGymFitness
 
 <p align="center">
 
-## Build.
+### Build. • Discipline. • Consistency.
 
-## Discipline.
+</p>
 
-## Consistency.
+<p align="center">
+
+⭐ Thanks for visiting my profile!
 
 </p>
